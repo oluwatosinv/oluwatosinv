@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oluwatsin Faboade</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on [Detrix Studios website](www.detrixstudios.com)
+- 🔭 I’m currently a freelancer
 
 - 🌱 I’m currently use **React js**
 
