@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Detrix Studios website](www.detrixstudios.com)
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently use **React js**
 
 - 💬 Ask me about **HTML, CSS, Javascript**
 
