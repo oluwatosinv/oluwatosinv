@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently a freelancer
 
-- 🌱 I’m currently use **React js**
+- 🌱 I currently use **React js**
 
 - 💬 Ask me about **HTML, CSS, Javascript**
 
